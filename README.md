@@ -20,6 +20,6 @@
 | [chhMonitor](https://github.com/imsoso/chhMonitor) | Chiphell 二手区上新提醒 · 非官方 Chrome 扩展，关键词与卖家过滤 |
 | [OmniGas](https://github.com/imsoso/OmniGas) | 跨链通用 Gas 预付池：一个账户，一笔余额，覆盖主流链网络 |
 | [SoMask](https://github.com/imsoso/SoMask) | iOS + MetaMask：Swift 实现钱包连接、签名、切链、发交易全流程 |
-| [mush-audit](https://github.com/imsoso/mush-audit) | AI 驱动的智能合约安全审计平台：漏洞检测 + Gas 优化 + 多模型报告 |
+| [mush-audit](https://github.com/imsoso/mush-audit) | AI 驱动的智能合约安全审计平台（朋友主导开发的共建项目） |
 
 有电子书处理、浏览器扩展、Web3 工具类定制需求？欢迎[提 Issue 联系](https://github.com/imsoso/manga-tools/issues/new)。
