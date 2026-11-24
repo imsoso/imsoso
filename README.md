@@ -16,6 +16,7 @@
 
 | 项目 | 说明 |
 |---|---|
+| [ai-refresh](https://github.com/imsoso/ai-refresh) | 定时最小请求预热 AI 编程订阅 5h 用量窗口（zcode/Gemini/Claude/Codex），pmset 唤醒合盖 Mac，逐 AI 开关 |
 | [manga-tools](https://github.com/imsoso/manga-tools) | Kindle 漫画 mobi 一键转 iPad 友好固定版式 EPUB，无需 Calibre，纯 Python 标准库 |
 | [chhMonitor](https://github.com/imsoso/chhMonitor) | Chiphell 二手区上新提醒 · 非官方 Chrome 扩展，关键词与卖家过滤 |
 | [OmniGas](https://github.com/imsoso/OmniGas) | 跨链通用 Gas 预付池：一个账户，一笔余额，覆盖主流链网络 |
